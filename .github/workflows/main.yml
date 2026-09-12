@@ -19,15 +19,15 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Install deps
+      - name: Install dependencies
         run: |
-          pip install requests
-          playwright install chromium
+          pip install requests playwright
+          python -m playwright install chromium
       
       - name: Run scraper
         run: python scrap.py
       
-      - name: Commit
+      - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
