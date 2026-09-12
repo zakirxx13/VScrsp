@@ -1,9 +1,14 @@
-name: Toffee Channel Scraper
+name: Toffee API Scraper (Python)
 
 on:
   workflow_dispatch:
+    inputs:
+      content_hash:
+        description: 'Content API Hash (optional)'
+        required: false
+        default: ''
   schedule:
-    - cron: '0 */6 * * *'  # প্রতি ৬ ঘন্টায় রান করবে
+    - cron: '0 */4 * * *'
 
 permissions:
   contents: write
@@ -16,24 +21,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          node-version: 20
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
-          npm init -y
-          npm install playwright
-          npx playwright install --with-deps chromium
+          pip install requests playwright
+          playwright install --with-deps chromium
 
-      - name: Run scraper
-        run: node scraper.js
+      - name: Run API Scraper
+        env:
+          CONTENT_HASH: ${{ github.event.inputs.content_hash }}
+        run: python api_scraper.py
 
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/
-          git commit -m "Update channel data - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git commit -m "Update API data - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
