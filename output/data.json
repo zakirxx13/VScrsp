@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-09-13 15:24:06",
+  "scraped_at": "2026-09-13 20:03:54",
   "auth": {
     "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
-    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=52c89ede-c673-462a-80af-ec529d28823f; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjdiNmFhZmExLTBiNjUtNDBhYS1hYWJiLTFlZTdiODAyNmYxNiIsImV4cCI6MTc5MTk0MjgyOCwiaWF0IjoxNzg5MzEzMDI4LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjA4ZjhlYzcxLTk4ODMtNDQ5Ny1hOWZlLWYzNjAxMzkyMTE4ZV8xNzg5MzEzMDI4IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiN2I2YWFmYTEtMGI2NS00MGFhLWFhYmItMWVlN2I4MDI2ZjE2Iiwic19pZCI6IjdiNmFhZmExLTBiNjUtNDBhYS1hYWJiLTFlZTdiODAyNmYxNiIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.sBEl9hZPt6eAJoR4o_jQpbHwanW1NjfyQqeZ_wlkdJOoKQgiJsO1K6hC44x-lAjGN-OD-3SWGxXHDhybwOeiRg; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjdiNmFhZmExLTBiNjUtNDBhYS1hYWJiLTFlZTdiODAyNmYxNiIsImV4cCI6MTgwNTA5MTgyOCwiaWF0IjoxNzg5MzEzMDI4LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjA4ZjhlYzcxLTk4ODMtNDQ5Ny1hOWZlLWYzNjAxMzkyMTE4ZV8xNzg5MzEzMDI4IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiN2I2YWFmYTEtMGI2NS00MGFhLWFhYmItMWVlN2I4MDI2ZjE2Iiwic19pZCI6IjdiNmFhZmExLTBiNjUtNDBhYS1hYWJiLTFlZTdiODAyNmYxNiIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.T4TpSq4br4wtaEt3UnlN0gIlAjLOmf7Yh3dM5dO5IOAiJhx652SYjh2vGuVQGLUJF4OJO0wQC3Z14yCUF11h6A; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3Aa88a4329-2ebd-4507-b5fb-23b525c19e60%22%2C%22%24device_id%22%3A%22a88a4329-2ebd-4507-b5fb-23b525c19e60%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _fbp=fb.1.1789313031482.353717621920159943; _gcl_au=1.1.1506280150.1789313033; _ga=GA1.1.41825825.1789313033; _ga_02M4D9SN5F=GS2.1.s1789313032$o1$g0$t1789313032$j60$l0$h200382035",
+    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=7bd7f074-ef0b-45bc-b149-7e4e8498a07b; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjMyZjI0MTI4LWNjZDUtNDEyZi05OWJlLTMyMzZhZGY5M2ZkMiIsImV4cCI6MTc5MTk1OTYxNiwiaWF0IjoxNzg5MzI5ODE2LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjI4OWQ1MjRjLWY2MGItNDczZC1hMTJkLTg2NTEyNDBmZmVlMl8xNzg5MzI5ODE2IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMzJmMjQxMjgtY2NkNS00MTJmLTk5YmUtMzIzNmFkZjkzZmQyIiwic19pZCI6IjMyZjI0MTI4LWNjZDUtNDEyZi05OWJlLTMyMzZhZGY5M2ZkMiIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.oqqTDcbAGeT3tfj-vEFzm-uXRV1dVg4weFiRIcjvXIdMwsRbEMnhvIzy_Vc3aBU5WF-D6FFT65iJzrPKnadF8w; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjMyZjI0MTI4LWNjZDUtNDEyZi05OWJlLTMyMzZhZGY5M2ZkMiIsImV4cCI6MTgwNTEwODYxNiwiaWF0IjoxNzg5MzI5ODE2LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjI4OWQ1MjRjLWY2MGItNDczZC1hMTJkLTg2NTEyNDBmZmVlMl8xNzg5MzI5ODE2IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMzJmMjQxMjgtY2NkNS00MTJmLTk5YmUtMzIzNmFkZjkzZmQyIiwic19pZCI6IjMyZjI0MTI4LWNjZDUtNDEyZi05OWJlLTMyMzZhZGY5M2ZkMiIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.8drIAPnuId4YEsbtje300KVBz20qW10GS8m8yX9ssH6ZmfL3FaBIgIJWN6e9IVAcxFep6zW3D38qSG2RAtME1A; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A6961ae6d-4c3b-4d0f-b720-c369983d1e2f%22%2C%22%24device_id%22%3A%226961ae6d-4c3b-4d0f-b720-c369983d1e2f%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _fbp=fb.1.1789329819051.144558475148787806; _gcl_au=1.1.685238274.1789329820; _ga=GA1.1.1523092618.1789329820; _ga_02M4D9SN5F=GS2.1.s1789329820$o1$g0$t1789329820$j60$l0$h1024521463",
     "raw_cookies": [
       {
         "name": "toffee_locale",
@@ -30,25 +30,25 @@
       },
       {
         "name": "device_id",
-        "value": "52c89ede-c673-462a-80af-ec529d28823f",
+        "value": "7bd7f074-ef0b-45bc-b149-7e4e8498a07b",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjdiNmFhZmExLTBiNjUtNDBhYS1hYWJiLTFlZTdiODAyNmYxNiIsImV4cCI6MTc5MTk0MjgyOCwiaWF0IjoxNzg5MzEzMDI4LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjA4ZjhlYzcxLTk4ODMtNDQ5Ny1hOWZlLWYzNjAxMzkyMTE4ZV8xNzg5MzEzMDI4IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiN2I2YWFmYTEtMGI2NS00MGFhLWFhYmItMWVlN2I4MDI2ZjE2Iiwic19pZCI6IjdiNmFhZmExLTBiNjUtNDBhYS1hYWJiLTFlZTdiODAyNmYxNiIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.sBEl9hZPt6eAJoR4o_jQpbHwanW1NjfyQqeZ_wlkdJOoKQgiJsO1K6hC44x-lAjGN-OD-3SWGxXHDhybwOeiRg",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjMyZjI0MTI4LWNjZDUtNDEyZi05OWJlLTMyMzZhZGY5M2ZkMiIsImV4cCI6MTc5MTk1OTYxNiwiaWF0IjoxNzg5MzI5ODE2LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjI4OWQ1MjRjLWY2MGItNDczZC1hMTJkLTg2NTEyNDBmZmVlMl8xNzg5MzI5ODE2IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMzJmMjQxMjgtY2NkNS00MTJmLTk5YmUtMzIzNmFkZjkzZmQyIiwic19pZCI6IjMyZjI0MTI4LWNjZDUtNDEyZi05OWJlLTMyMzZhZGY5M2ZkMiIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.oqqTDcbAGeT3tfj-vEFzm-uXRV1dVg4weFiRIcjvXIdMwsRbEMnhvIzy_Vc3aBU5WF-D6FFT65iJzrPKnadF8w",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_refresh_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjdiNmFhZmExLTBiNjUtNDBhYS1hYWJiLTFlZTdiODAyNmYxNiIsImV4cCI6MTgwNTA5MTgyOCwiaWF0IjoxNzg5MzEzMDI4LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjA4ZjhlYzcxLTk4ODMtNDQ5Ny1hOWZlLWYzNjAxMzkyMTE4ZV8xNzg5MzEzMDI4IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiN2I2YWFmYTEtMGI2NS00MGFhLWFhYmItMWVlN2I4MDI2ZjE2Iiwic19pZCI6IjdiNmFhZmExLTBiNjUtNDBhYS1hYWJiLTFlZTdiODAyNmYxNiIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.T4TpSq4br4wtaEt3UnlN0gIlAjLOmf7Yh3dM5dO5IOAiJhx652SYjh2vGuVQGLUJF4OJO0wQC3Z14yCUF11h6A",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjMyZjI0MTI4LWNjZDUtNDEyZi05OWJlLTMyMzZhZGY5M2ZkMiIsImV4cCI6MTgwNTEwODYxNiwiaWF0IjoxNzg5MzI5ODE2LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjI4OWQ1MjRjLWY2MGItNDczZC1hMTJkLTg2NTEyNDBmZmVlMl8xNzg5MzI5ODE2IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMzJmMjQxMjgtY2NkNS00MTJmLTk5YmUtMzIzNmFkZjkzZmQyIiwic19pZCI6IjMyZjI0MTI4LWNjZDUtNDEyZi05OWJlLTMyMzZhZGY5M2ZkMiIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.8drIAPnuId4YEsbtje300KVBz20qW10GS8m8yX9ssH6ZmfL3FaBIgIJWN6e9IVAcxFep6zW3D38qSG2RAtME1A",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "mp_6019860d585d6c9cc82edba9d456e36c_mixpanel",
-        "value": "%7B%22distinct_id%22%3A%22%24device%3Aa88a4329-2ebd-4507-b5fb-23b525c19e60%22%2C%22%24device_id%22%3A%22a88a4329-2ebd-4507-b5fb-23b525c19e60%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+        "value": "%7B%22distinct_id%22%3A%22%24device%3A6961ae6d-4c3b-4d0f-b720-c369983d1e2f%22%2C%22%24device_id%22%3A%226961ae6d-4c3b-4d0f-b720-c369983d1e2f%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
         "domain": ".toffeelive.com",
         "path": "/"
       },
@@ -60,25 +60,25 @@
       },
       {
         "name": "_fbp",
-        "value": "fb.1.1789313031482.353717621920159943",
+        "value": "fb.1.1789329819051.144558475148787806",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_gcl_au",
-        "value": "1.1.1506280150.1789313033",
+        "value": "1.1.685238274.1789329820",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga",
-        "value": "GA1.1.41825825.1789313033",
+        "value": "GA1.1.1523092618.1789329820",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga_02M4D9SN5F",
-        "value": "GS2.1.s1789313032$o1$g0$t1789313032$j60$l0$h200382035",
+        "value": "GS2.1.s1789329820$o1$g0$t1789329820$j60$l0$h1024521463",
         "domain": ".toffeelive.com",
         "path": "/"
       }
@@ -1000,164 +1000,6 @@
             ]
           },
           {
-            "catogory": [
-              "Sports",
-              "Live Action"
-            ],
-            "media": [
-              {
-                "mediaId": "sCA1qZgBEef-9-uVCprL"
-              }
-            ],
-            "title": "EPL channel 2",
-            "cast": [],
-            "v_status": "PUBLISHED",
-            "defaultLanguage": "en",
-            "v_published": true,
-            "pgRating": null,
-            "genres": [
-              "Sports"
-            ],
-            "id": "Mi1QqZgBNnOkwJLWxggo",
-            "seo": {
-              "description": "Watch Live EPL matches",
-              "title": "EPL Live",
-              "ogImage": "toffee/images/af99fbc9-2113-40a4-80f5-a502f078d98c.png"
-            },
-            "v_tt": 1789269582735,
-            "licensing": [],
-            "images": [
-              {
-                "path": "Mi1QqZgBNnOkwJLWxggo/posters/a9f4ca5f-c440-43b7-bb45-6dac7a7310a4.png",
-                "width": 240,
-                "language": "en",
-                "height": 240,
-                "ratio": "1:1"
-              },
-              {
-                "path": "Mi1QqZgBNnOkwJLWxggo/posters/c42e9ee6-75dc-4a18-afac-69e716f14bec.png",
-                "width": 1280,
-                "language": "en",
-                "height": 1920,
-                "ratio": "2:3"
-              },
-              {
-                "path": "Mi1QqZgBNnOkwJLWxggo/posters/1e86df6c-014d-465b-a904-63239275152c.png",
-                "width": 1920,
-                "language": "en",
-                "height": 1080,
-                "ratio": "16:9"
-              },
-              {
-                "path": "Mi1QqZgBNnOkwJLWxggo/posters/137aa730-0efc-4cb8-be2e-f49ff45b0f35.png",
-                "width": 2880,
-                "language": "en",
-                "height": 1080,
-                "ratio": "8:3"
-              }
-            ],
-            "languages": [
-              "en"
-            ],
-            "syndicateId": 302371029,
-            "v_type": "channels",
-            "tags": [
-              "epl",
-              "freepreview"
-            ],
-            "trailers": [],
-            "shortSynopsis": "",
-            "badge": [
-              "Premium"
-            ],
-            "v_user": "33",
-            "v_has_draft": false,
-            "subType": "Live_TV",
-            "priceRules": [
-              "premium",
-              "epl"
-            ]
-          },
-          {
-            "catogory": [
-              "Sports",
-              "Live Action"
-            ],
-            "media": [
-              {
-                "mediaId": "mi02qZgBNnOkwJLWdQfS"
-              }
-            ],
-            "title": "EPL channel 3",
-            "cast": [],
-            "v_status": "PUBLISHED",
-            "defaultLanguage": "en",
-            "v_published": true,
-            "pgRating": null,
-            "genres": [
-              "Sports"
-            ],
-            "id": "Pi1TqZgBNnOkwJLWVggf",
-            "seo": {
-              "description": "Watch EPL live matches",
-              "title": "EPL Live",
-              "ogImage": "toffee/images/f8ca545c-1af0-4c60-88e5-5916205537ee.png"
-            },
-            "v_tt": 1789269633562,
-            "licensing": [],
-            "images": [
-              {
-                "path": "Pi1TqZgBNnOkwJLWVggf/posters/e4ed880d-f067-4a06-812f-596bed42a0d0.png",
-                "width": 240,
-                "language": "en",
-                "height": 240,
-                "ratio": "1:1"
-              },
-              {
-                "path": "Pi1TqZgBNnOkwJLWVggf/posters/6c9e720e-6685-4c44-bb19-a032c3e66621.png",
-                "width": 1280,
-                "language": "en",
-                "height": 1920,
-                "ratio": "2:3"
-              },
-              {
-                "path": "Pi1TqZgBNnOkwJLWVggf/posters/1905cbb4-4f62-4886-9442-80526d99ae05.png",
-                "width": 1920,
-                "language": "en",
-                "height": 1080,
-                "ratio": "16:9"
-              },
-              {
-                "path": "Pi1TqZgBNnOkwJLWVggf/posters/59175ba0-3a14-41c3-aa66-f3dfbf0cfb5c.png",
-                "width": 2880,
-                "language": "en",
-                "height": 1080,
-                "ratio": "8:3"
-              }
-            ],
-            "languages": [
-              "en"
-            ],
-            "syndicateId": 187886223,
-            "v_type": "channels",
-            "tags": [
-              "epl",
-              "freepreview"
-            ],
-            "trailers": [],
-            "shortSynopsis": "",
-            "badge": [
-              "Premium"
-            ],
-            "v_user": "33",
-            "v_has_draft": false,
-            "subType": "Live_TV",
-            "priceRules": [
-              "premium",
-              "epl"
-            ]
-          },
-          {
             "fullSynopsis": "",
             "images": [
               {
@@ -1205,7 +1047,7 @@
             "licensing": []
           }
         ],
-        "total": 4
+        "total": 2
       }
     },
     {
