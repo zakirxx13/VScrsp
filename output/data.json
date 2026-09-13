@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-09-13 02:25:19",
+  "scraped_at": "2026-09-13 10:52:23",
   "auth": {
     "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
-    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=f2e9e90c-30ee-4020-aa0e-e9bb151f7854; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjFmMTY0ZGM5LTY1OWItNGNmYy04YTYyLTAxOWUyYTQ0MjliNCIsImV4cCI6MTc5MTg5NjEwMywiaWF0IjoxNzg5MjY2MzAzLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjU4YmM2MzA1LTE5NjItNGUyMS04YjliLTBlZmYzNzg0NzJjZV8xNzg5MjY2MzAzIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMWYxNjRkYzktNjU5Yi00Y2ZjLThhNjItMDE5ZTJhNDQyOWI0Iiwic19pZCI6IjFmMTY0ZGM5LTY1OWItNGNmYy04YTYyLTAxOWUyYTQ0MjliNCIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.jI4wmO_bvFgywzSQ2QMCPc4_nPdOcWAILsMZT5ofJy3rgdWT3oEez6m9CxS1ADD6KGHLGjIzRDeOe7zOFFGNlw; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjFmMTY0ZGM5LTY1OWItNGNmYy04YTYyLTAxOWUyYTQ0MjliNCIsImV4cCI6MTgwNTA0NTEwMywiaWF0IjoxNzg5MjY2MzAzLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjU4YmM2MzA1LTE5NjItNGUyMS04YjliLTBlZmYzNzg0NzJjZV8xNzg5MjY2MzAzIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMWYxNjRkYzktNjU5Yi00Y2ZjLThhNjItMDE5ZTJhNDQyOWI0Iiwic19pZCI6IjFmMTY0ZGM5LTY1OWItNGNmYy04YTYyLTAxOWUyYTQ0MjliNCIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.7WAtOWbuV5LUnCZqaIq3iDec0o21aRql8dWEqmKbRfwoMW0zwXjeCFt3ciW-l4ujjuLaJiOLrj-J_iKCnNgq_A; _fbp=fb.1.1789266304369.372220464486198691; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A14ca7357-c6c2-41eb-8d11-84192586fc44%22%2C%22%24device_id%22%3A%2214ca7357-c6c2-41eb-8d11-84192586fc44%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _gcl_au=1.1.741201075.1789266307; _ga=GA1.1.1218941680.1789266307; _ga_02M4D9SN5F=GS2.1.s1789266306$o1$g0$t1789266306$j60$l0$h1828261632",
+    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=5793eb5c-957b-44b5-83f5-759df2374d9e; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImM5YTBlZDA0LTY5NWEtNGU1Yy1iZGE2LTliZTU5MDc0ZjY4MCIsImV4cCI6MTc5MTkyNjUyNiwiaWF0IjoxNzg5Mjk2NzI2LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImExZmFkY2NkLTkyNjUtNGQ4Yy05MmI5LWJkZjgwNGJlNTQ5NF8xNzg5Mjk2NzI2IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiYzlhMGVkMDQtNjk1YS00ZTVjLWJkYTYtOWJlNTkwNzRmNjgwIiwic19pZCI6ImM5YTBlZDA0LTY5NWEtNGU1Yy1iZGE2LTliZTU5MDc0ZjY4MCIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.nc80A7xU7kOsdSjEDmutLK-NycgUZ_xgFcB-_nUhX4YvzrEUZybsuDleELxWCOUIAm6ipSogmMDo8n07VTmnPQ; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImM5YTBlZDA0LTY5NWEtNGU1Yy1iZGE2LTliZTU5MDc0ZjY4MCIsImV4cCI6MTgwNTA3NTUyNiwiaWF0IjoxNzg5Mjk2NzI2LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImExZmFkY2NkLTkyNjUtNGQ4Yy05MmI5LWJkZjgwNGJlNTQ5NF8xNzg5Mjk2NzI2IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiYzlhMGVkMDQtNjk1YS00ZTVjLWJkYTYtOWJlNTkwNzRmNjgwIiwic19pZCI6ImM5YTBlZDA0LTY5NWEtNGU1Yy1iZGE2LTliZTU5MDc0ZjY4MCIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.CfqqA74VkUlmH_A027Vu3d3P8WXGaforfQQAMUfLD0TVvSC13JDkY0CEyWlcFgyTz-hwbdWlbetDAwx5JhVydw; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A34769c38-d33a-4345-a28a-f3e088d07534%22%2C%22%24device_id%22%3A%2234769c38-d33a-4345-a28a-f3e088d07534%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _fbp=fb.1.1789296729029.813636637760668592; _gcl_au=1.1.1685887979.1789296730; _ga=GA1.1.1335597187.1789296730; _ga_02M4D9SN5F=GS2.1.s1789296730$o1$g0$t1789296730$j60$l0$h1985826710",
     "raw_cookies": [
       {
         "name": "toffee_locale",
@@ -30,31 +30,25 @@
       },
       {
         "name": "device_id",
-        "value": "f2e9e90c-30ee-4020-aa0e-e9bb151f7854",
+        "value": "5793eb5c-957b-44b5-83f5-759df2374d9e",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjFmMTY0ZGM5LTY1OWItNGNmYy04YTYyLTAxOWUyYTQ0MjliNCIsImV4cCI6MTc5MTg5NjEwMywiaWF0IjoxNzg5MjY2MzAzLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjU4YmM2MzA1LTE5NjItNGUyMS04YjliLTBlZmYzNzg0NzJjZV8xNzg5MjY2MzAzIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMWYxNjRkYzktNjU5Yi00Y2ZjLThhNjItMDE5ZTJhNDQyOWI0Iiwic19pZCI6IjFmMTY0ZGM5LTY1OWItNGNmYy04YTYyLTAxOWUyYTQ0MjliNCIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.jI4wmO_bvFgywzSQ2QMCPc4_nPdOcWAILsMZT5ofJy3rgdWT3oEez6m9CxS1ADD6KGHLGjIzRDeOe7zOFFGNlw",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImM5YTBlZDA0LTY5NWEtNGU1Yy1iZGE2LTliZTU5MDc0ZjY4MCIsImV4cCI6MTc5MTkyNjUyNiwiaWF0IjoxNzg5Mjk2NzI2LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImExZmFkY2NkLTkyNjUtNGQ4Yy05MmI5LWJkZjgwNGJlNTQ5NF8xNzg5Mjk2NzI2IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiYzlhMGVkMDQtNjk1YS00ZTVjLWJkYTYtOWJlNTkwNzRmNjgwIiwic19pZCI6ImM5YTBlZDA0LTY5NWEtNGU1Yy1iZGE2LTliZTU5MDc0ZjY4MCIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.nc80A7xU7kOsdSjEDmutLK-NycgUZ_xgFcB-_nUhX4YvzrEUZybsuDleELxWCOUIAm6ipSogmMDo8n07VTmnPQ",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_refresh_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjFmMTY0ZGM5LTY1OWItNGNmYy04YTYyLTAxOWUyYTQ0MjliNCIsImV4cCI6MTgwNTA0NTEwMywiaWF0IjoxNzg5MjY2MzAzLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjU4YmM2MzA1LTE5NjItNGUyMS04YjliLTBlZmYzNzg0NzJjZV8xNzg5MjY2MzAzIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMWYxNjRkYzktNjU5Yi00Y2ZjLThhNjItMDE5ZTJhNDQyOWI0Iiwic19pZCI6IjFmMTY0ZGM5LTY1OWItNGNmYy04YTYyLTAxOWUyYTQ0MjliNCIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.7WAtOWbuV5LUnCZqaIq3iDec0o21aRql8dWEqmKbRfwoMW0zwXjeCFt3ciW-l4ujjuLaJiOLrj-J_iKCnNgq_A",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImM5YTBlZDA0LTY5NWEtNGU1Yy1iZGE2LTliZTU5MDc0ZjY4MCIsImV4cCI6MTgwNTA3NTUyNiwiaWF0IjoxNzg5Mjk2NzI2LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImExZmFkY2NkLTkyNjUtNGQ4Yy05MmI5LWJkZjgwNGJlNTQ5NF8xNzg5Mjk2NzI2IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiYzlhMGVkMDQtNjk1YS00ZTVjLWJkYTYtOWJlNTkwNzRmNjgwIiwic19pZCI6ImM5YTBlZDA0LTY5NWEtNGU1Yy1iZGE2LTliZTU5MDc0ZjY4MCIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.CfqqA74VkUlmH_A027Vu3d3P8WXGaforfQQAMUfLD0TVvSC13JDkY0CEyWlcFgyTz-hwbdWlbetDAwx5JhVydw",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
-        "name": "_fbp",
-        "value": "fb.1.1789266304369.372220464486198691",
-        "domain": ".toffeelive.com",
-        "path": "/"
-      },
-      {
         "name": "mp_6019860d585d6c9cc82edba9d456e36c_mixpanel",
-        "value": "%7B%22distinct_id%22%3A%22%24device%3A14ca7357-c6c2-41eb-8d11-84192586fc44%22%2C%22%24device_id%22%3A%2214ca7357-c6c2-41eb-8d11-84192586fc44%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+        "value": "%7B%22distinct_id%22%3A%22%24device%3A34769c38-d33a-4345-a28a-f3e088d07534%22%2C%22%24device_id%22%3A%2234769c38-d33a-4345-a28a-f3e088d07534%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
         "domain": ".toffeelive.com",
         "path": "/"
       },
@@ -65,20 +59,26 @@
         "path": "/"
       },
       {
+        "name": "_fbp",
+        "value": "fb.1.1789296729029.813636637760668592",
+        "domain": ".toffeelive.com",
+        "path": "/"
+      },
+      {
         "name": "_gcl_au",
-        "value": "1.1.741201075.1789266307",
+        "value": "1.1.1685887979.1789296730",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga",
-        "value": "GA1.1.1218941680.1789266307",
+        "value": "GA1.1.1335597187.1789296730",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga_02M4D9SN5F",
-        "value": "GS2.1.s1789266306$o1$g0$t1789266306$j60$l0$h1828261632",
+        "value": "GS2.1.s1789296730$o1$g0$t1789296730$j60$l0$h1985826710",
         "domain": ".toffeelive.com",
         "path": "/"
       }
@@ -943,34 +943,34 @@
               "keywords": "",
               "description": "Watch Live matches of EPL",
               "title": "EPL",
-              "ogImage": "toffee/images/fc0bd6cb-5a74-45d5-bcfb-6bd052ef1244.png"
+              "ogImage": "toffee/images/a9777e9a-98fe-4426-9a3c-f6395e3b31b0.png"
             },
-            "v_tt": 1789023126023,
+            "v_tt": 1789269715402,
             "licensing": [],
             "images": [
               {
-                "path": "JS1AqZgBNnOkwJLWlwg-/posters/9d7053ce-8905-47b6-83a6-1aac7a60ca56.png",
+                "path": "JS1AqZgBNnOkwJLWlwg-/posters/694bf019-e016-412a-9be2-9ead6981683a.png",
                 "width": 240,
                 "language": "en",
                 "height": 240,
                 "ratio": "1:1"
               },
               {
-                "path": "JS1AqZgBNnOkwJLWlwg-/posters/0d907fc4-e2e4-4aea-9bfc-88c6a6057e08.png",
+                "path": "JS1AqZgBNnOkwJLWlwg-/posters/236f7f14-ebd9-4686-a0ef-c97c8fc4cd88.png",
                 "width": 1280,
                 "language": "en",
                 "height": 1920,
                 "ratio": "2:3"
               },
               {
-                "path": "JS1AqZgBNnOkwJLWlwg-/posters/725190cd-35f5-4824-8636-c6d788fd58bf.png",
+                "path": "JS1AqZgBNnOkwJLWlwg-/posters/7db50f3b-4910-4e0c-95b8-3f27705415e2.png",
                 "width": 1920,
                 "language": "en",
                 "height": 1080,
                 "ratio": "16:9"
               },
               {
-                "path": "JS1AqZgBNnOkwJLWlwg-/posters/f621edb4-82d5-43ec-b1a0-0f3e75fbd9b5.png",
+                "path": "JS1AqZgBNnOkwJLWlwg-/posters/6ed8df8d-59b8-47b6-b96a-94408413458c.png",
                 "width": 2880,
                 "language": "en",
                 "height": 1080,
@@ -981,6 +981,85 @@
               "en"
             ],
             "syndicateId": 561942461,
+            "v_type": "channels",
+            "tags": [
+              "epl",
+              "freepreview"
+            ],
+            "trailers": [],
+            "shortSynopsis": "",
+            "badge": [
+              "Premium"
+            ],
+            "v_user": "33",
+            "v_has_draft": false,
+            "subType": "Live_TV",
+            "priceRules": [
+              "premium",
+              "epl"
+            ]
+          },
+          {
+            "catogory": [
+              "Sports",
+              "Live Action"
+            ],
+            "media": [
+              {
+                "mediaId": "sCA1qZgBEef-9-uVCprL"
+              }
+            ],
+            "title": "EPL channel 2",
+            "cast": [],
+            "v_status": "PUBLISHED",
+            "defaultLanguage": "en",
+            "v_published": true,
+            "pgRating": null,
+            "genres": [
+              "Sports"
+            ],
+            "id": "Mi1QqZgBNnOkwJLWxggo",
+            "seo": {
+              "description": "Watch Live EPL matches",
+              "title": "EPL Live",
+              "ogImage": "toffee/images/af99fbc9-2113-40a4-80f5-a502f078d98c.png"
+            },
+            "v_tt": 1789269582735,
+            "licensing": [],
+            "images": [
+              {
+                "path": "Mi1QqZgBNnOkwJLWxggo/posters/a9f4ca5f-c440-43b7-bb45-6dac7a7310a4.png",
+                "width": 240,
+                "language": "en",
+                "height": 240,
+                "ratio": "1:1"
+              },
+              {
+                "path": "Mi1QqZgBNnOkwJLWxggo/posters/c42e9ee6-75dc-4a18-afac-69e716f14bec.png",
+                "width": 1280,
+                "language": "en",
+                "height": 1920,
+                "ratio": "2:3"
+              },
+              {
+                "path": "Mi1QqZgBNnOkwJLWxggo/posters/1e86df6c-014d-465b-a904-63239275152c.png",
+                "width": 1920,
+                "language": "en",
+                "height": 1080,
+                "ratio": "16:9"
+              },
+              {
+                "path": "Mi1QqZgBNnOkwJLWxggo/posters/137aa730-0efc-4cb8-be2e-f49ff45b0f35.png",
+                "width": 2880,
+                "language": "en",
+                "height": 1080,
+                "ratio": "8:3"
+              }
+            ],
+            "languages": [
+              "en"
+            ],
+            "syndicateId": 302371029,
             "v_type": "channels",
             "tags": [
               "epl",
@@ -1047,7 +1126,7 @@
             "licensing": []
           }
         ],
-        "total": 2
+        "total": 3
       }
     },
     {
