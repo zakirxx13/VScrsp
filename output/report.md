@@ -1,6 +1,6 @@
 # Toffee Scrape Report
 
-**Time:** 2026-09-15 15:59:36
+**Time:** 2026-09-15 20:42:49
 
 ## Statistics
 
@@ -10,7 +10,7 @@
 
 ## Auth
 
-- User-Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36`
+- User-Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36`
 - Cookies collected: **13**
 
 ## Channels
