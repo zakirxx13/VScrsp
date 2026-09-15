@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-09-15 02:45:04",
+  "scraped_at": "2026-09-15 10:46:33",
   "auth": {
     "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36",
-    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=c0e2ed08-452d-4cfb-a6e4-c9cb064221cf; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImYwNmFkMjQzLWNjNjgtNGZlNy1hMDU0LTE5OWVhMjcwNGQ3OSIsImV4cCI6MTc5MjA3MDA4NywiaWF0IjoxNzg5NDQwMjg3LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImE0MTk5ZWU1LTIzY2EtNDFjMC05NmM3LTk0OTc1ZTY4MWZhMF8xNzg5NDQwMjg3IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZjA2YWQyNDMtY2M2OC00ZmU3LWEwNTQtMTk5ZWEyNzA0ZDc5Iiwic19pZCI6ImYwNmFkMjQzLWNjNjgtNGZlNy1hMDU0LTE5OWVhMjcwNGQ3OSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.bbG3Hjqrkh22XbSrxis0MpwHMSLQiOGLG9Q95PT7darTUIw7oQf35DOhFbfU3j3ohCrxtvB0M8dWtS9WCbmkrQ; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImYwNmFkMjQzLWNjNjgtNGZlNy1hMDU0LTE5OWVhMjcwNGQ3OSIsImV4cCI6MTgwNTIxOTA4NywiaWF0IjoxNzg5NDQwMjg3LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImE0MTk5ZWU1LTIzY2EtNDFjMC05NmM3LTk0OTc1ZTY4MWZhMF8xNzg5NDQwMjg3IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZjA2YWQyNDMtY2M2OC00ZmU3LWEwNTQtMTk5ZWEyNzA0ZDc5Iiwic19pZCI6ImYwNmFkMjQzLWNjNjgtNGZlNy1hMDU0LTE5OWVhMjcwNGQ3OSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.7eNcXlinONTypXHBG5U3LREqbjzgmzfDr9P_6rDVeNuwdoFaKIw7MUByue7S9Bjec-QkaG51MDHstjC9vD1lFg; _fbp=fb.1.1789440289552.442944938712777798; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3Ae7173faf-253b-4c9f-8f4d-0049a8ea2c7c%22%2C%22%24device_id%22%3A%22e7173faf-253b-4c9f-8f4d-0049a8ea2c7c%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _gcl_au=1.1.33877974.1789440292; _ga=GA1.1.1421046809.1789440292; _ga_02M4D9SN5F=GS2.1.s1789440292$o1$g0$t1789440292$j60$l0$h731905357",
+    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=60e33218-f99a-4fc7-8492-c9356005e44f; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6Ijc4N2EwOGRlLWJmYTYtNGVkNC1hNjdjLWJhOWRhZDUzNDJjNSIsImV4cCI6MTc5MjA5ODk3NywiaWF0IjoxNzg5NDY5MTc3LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijc4N2I4MWYwLThjNmItNGM5Mi1hMTI3LTVjZjMwMmY1OTQ5YV8xNzg5NDY5MTc3IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNzg3YTA4ZGUtYmZhNi00ZWQ0LWE2N2MtYmE5ZGFkNTM0MmM1Iiwic19pZCI6Ijc4N2EwOGRlLWJmYTYtNGVkNC1hNjdjLWJhOWRhZDUzNDJjNSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.bwsQDCjZ6fIoazE2WXeoOwDOg6gkEifLrd7JY-Zq_WO3Cns_aR38kjIQQAaR5-HaZkgKjCp_7JxenjRmUEstiw; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6Ijc4N2EwOGRlLWJmYTYtNGVkNC1hNjdjLWJhOWRhZDUzNDJjNSIsImV4cCI6MTgwNTI0Nzk3NywiaWF0IjoxNzg5NDY5MTc3LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijc4N2I4MWYwLThjNmItNGM5Mi1hMTI3LTVjZjMwMmY1OTQ5YV8xNzg5NDY5MTc3IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNzg3YTA4ZGUtYmZhNi00ZWQ0LWE2N2MtYmE5ZGFkNTM0MmM1Iiwic19pZCI6Ijc4N2EwOGRlLWJmYTYtNGVkNC1hNjdjLWJhOWRhZDUzNDJjNSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.5Iet_uf9G5Q0TlqHk62BrhRuREVbP-me1yxLlVRTutKCgPsUuVBRdgSG00TbFemiLJVUAv5w9fxaEtFyVm4ilw; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A9e1f86ea-1c98-49ce-bc7c-2e6d62f11abe%22%2C%22%24device_id%22%3A%229e1f86ea-1c98-49ce-bc7c-2e6d62f11abe%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _fbp=fb.1.1789469180032.111129886286980168; _gcl_au=1.1.1019815565.1789469181; _ga=GA1.1.840178079.1789469181; _ga_02M4D9SN5F=GS2.1.s1789469180$o1$g0$t1789469180$j60$l0$h1033517846",
     "raw_cookies": [
       {
         "name": "toffee_locale",
@@ -30,31 +30,25 @@
       },
       {
         "name": "device_id",
-        "value": "c0e2ed08-452d-4cfb-a6e4-c9cb064221cf",
+        "value": "60e33218-f99a-4fc7-8492-c9356005e44f",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImYwNmFkMjQzLWNjNjgtNGZlNy1hMDU0LTE5OWVhMjcwNGQ3OSIsImV4cCI6MTc5MjA3MDA4NywiaWF0IjoxNzg5NDQwMjg3LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImE0MTk5ZWU1LTIzY2EtNDFjMC05NmM3LTk0OTc1ZTY4MWZhMF8xNzg5NDQwMjg3IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZjA2YWQyNDMtY2M2OC00ZmU3LWEwNTQtMTk5ZWEyNzA0ZDc5Iiwic19pZCI6ImYwNmFkMjQzLWNjNjgtNGZlNy1hMDU0LTE5OWVhMjcwNGQ3OSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.bbG3Hjqrkh22XbSrxis0MpwHMSLQiOGLG9Q95PT7darTUIw7oQf35DOhFbfU3j3ohCrxtvB0M8dWtS9WCbmkrQ",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6Ijc4N2EwOGRlLWJmYTYtNGVkNC1hNjdjLWJhOWRhZDUzNDJjNSIsImV4cCI6MTc5MjA5ODk3NywiaWF0IjoxNzg5NDY5MTc3LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijc4N2I4MWYwLThjNmItNGM5Mi1hMTI3LTVjZjMwMmY1OTQ5YV8xNzg5NDY5MTc3IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNzg3YTA4ZGUtYmZhNi00ZWQ0LWE2N2MtYmE5ZGFkNTM0MmM1Iiwic19pZCI6Ijc4N2EwOGRlLWJmYTYtNGVkNC1hNjdjLWJhOWRhZDUzNDJjNSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.bwsQDCjZ6fIoazE2WXeoOwDOg6gkEifLrd7JY-Zq_WO3Cns_aR38kjIQQAaR5-HaZkgKjCp_7JxenjRmUEstiw",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_refresh_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImYwNmFkMjQzLWNjNjgtNGZlNy1hMDU0LTE5OWVhMjcwNGQ3OSIsImV4cCI6MTgwNTIxOTA4NywiaWF0IjoxNzg5NDQwMjg3LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImE0MTk5ZWU1LTIzY2EtNDFjMC05NmM3LTk0OTc1ZTY4MWZhMF8xNzg5NDQwMjg3IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZjA2YWQyNDMtY2M2OC00ZmU3LWEwNTQtMTk5ZWEyNzA0ZDc5Iiwic19pZCI6ImYwNmFkMjQzLWNjNjgtNGZlNy1hMDU0LTE5OWVhMjcwNGQ3OSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.7eNcXlinONTypXHBG5U3LREqbjzgmzfDr9P_6rDVeNuwdoFaKIw7MUByue7S9Bjec-QkaG51MDHstjC9vD1lFg",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6Ijc4N2EwOGRlLWJmYTYtNGVkNC1hNjdjLWJhOWRhZDUzNDJjNSIsImV4cCI6MTgwNTI0Nzk3NywiaWF0IjoxNzg5NDY5MTc3LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijc4N2I4MWYwLThjNmItNGM5Mi1hMTI3LTVjZjMwMmY1OTQ5YV8xNzg5NDY5MTc3IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNzg3YTA4ZGUtYmZhNi00ZWQ0LWE2N2MtYmE5ZGFkNTM0MmM1Iiwic19pZCI6Ijc4N2EwOGRlLWJmYTYtNGVkNC1hNjdjLWJhOWRhZDUzNDJjNSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.5Iet_uf9G5Q0TlqHk62BrhRuREVbP-me1yxLlVRTutKCgPsUuVBRdgSG00TbFemiLJVUAv5w9fxaEtFyVm4ilw",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
-        "name": "_fbp",
-        "value": "fb.1.1789440289552.442944938712777798",
-        "domain": ".toffeelive.com",
-        "path": "/"
-      },
-      {
         "name": "mp_6019860d585d6c9cc82edba9d456e36c_mixpanel",
-        "value": "%7B%22distinct_id%22%3A%22%24device%3Ae7173faf-253b-4c9f-8f4d-0049a8ea2c7c%22%2C%22%24device_id%22%3A%22e7173faf-253b-4c9f-8f4d-0049a8ea2c7c%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+        "value": "%7B%22distinct_id%22%3A%22%24device%3A9e1f86ea-1c98-49ce-bc7c-2e6d62f11abe%22%2C%22%24device_id%22%3A%229e1f86ea-1c98-49ce-bc7c-2e6d62f11abe%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
         "domain": ".toffeelive.com",
         "path": "/"
       },
@@ -65,20 +59,26 @@
         "path": "/"
       },
       {
+        "name": "_fbp",
+        "value": "fb.1.1789469180032.111129886286980168",
+        "domain": ".toffeelive.com",
+        "path": "/"
+      },
+      {
         "name": "_gcl_au",
-        "value": "1.1.33877974.1789440292",
+        "value": "1.1.1019815565.1789469181",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga",
-        "value": "GA1.1.1421046809.1789440292",
+        "value": "GA1.1.840178079.1789469181",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga_02M4D9SN5F",
-        "value": "GS2.1.s1789440292$o1$g0$t1789440292$j60$l0$h731905357",
+        "value": "GS2.1.s1789469180$o1$g0$t1789469180$j60$l0$h1033517846",
         "domain": ".toffeelive.com",
         "path": "/"
       }
@@ -943,34 +943,34 @@
               "keywords": "",
               "description": "Watch Live matches of EPL",
               "title": "EPL",
-              "ogImage": "toffee/images/a9777e9a-98fe-4426-9a3c-f6395e3b31b0.png"
+              "ogImage": "toffee/images/a721f2c7-3543-4e25-888a-edcfefc111fd.png"
             },
-            "v_tt": 1789269715402,
+            "v_tt": 1789442122963,
             "licensing": [],
             "images": [
               {
-                "path": "JS1AqZgBNnOkwJLWlwg-/posters/694bf019-e016-412a-9be2-9ead6981683a.png",
+                "path": "JS1AqZgBNnOkwJLWlwg-/posters/02cede51-8806-40c6-95f7-29bb772d8d36.png",
                 "width": 240,
                 "language": "en",
                 "height": 240,
                 "ratio": "1:1"
               },
               {
-                "path": "JS1AqZgBNnOkwJLWlwg-/posters/236f7f14-ebd9-4686-a0ef-c97c8fc4cd88.png",
+                "path": "JS1AqZgBNnOkwJLWlwg-/posters/d6c57dd9-4921-4a29-a2ca-47f4a3f92173.png",
                 "width": 1280,
                 "language": "en",
                 "height": 1920,
                 "ratio": "2:3"
               },
               {
-                "path": "JS1AqZgBNnOkwJLWlwg-/posters/7db50f3b-4910-4e0c-95b8-3f27705415e2.png",
+                "path": "JS1AqZgBNnOkwJLWlwg-/posters/aa67e9f1-df0d-4600-9fd1-48e5bab285cb.png",
                 "width": 1920,
                 "language": "en",
                 "height": 1080,
                 "ratio": "16:9"
               },
               {
-                "path": "JS1AqZgBNnOkwJLWlwg-/posters/6ed8df8d-59b8-47b6-b96a-94408413458c.png",
+                "path": "JS1AqZgBNnOkwJLWlwg-/posters/75dbb1b4-3209-4bf5-aa22-8e32971089bc.png",
                 "width": 2880,
                 "language": "en",
                 "height": 1080,
@@ -997,7 +997,8 @@
             "priceRules": [
               "premium",
               "epl"
-            ]
+            ],
+            "duration": 0
           },
           {
             "fullSynopsis": "",
@@ -2519,11 +2520,11 @@
         "list": [
           {
             "v_type": "channels",
-            "v_tt": 1785136955125,
+            "v_tt": 1789443067976,
             "v_status": "PUBLISHED",
-            "v_user": "31",
+            "v_user": "33",
             "v_published": true,
-            "v_has_draft": true,
+            "v_has_draft": false,
             "title": "Zee Bangla",
             "shortSynopsis": "",
             "genres": [
@@ -2553,25 +2554,25 @@
                 "ratio": "1:1"
               },
               {
-                "path": "kK2aX5UBrjBfS2_RBcKf/posters/b2c64a9f-ed2f-4c1b-aa3e-5549fe8370f0.png",
+                "path": "kK2aX5UBrjBfS2_RBcKf/posters/49495494-1e93-4c69-b608-fbd13fd48a71.png",
                 "width": 1280,
                 "language": "en",
                 "height": 1920,
                 "ratio": "2:3"
               },
               {
-                "path": "kK2aX5UBrjBfS2_RBcKf/posters/46bc0877-5596-42d2-950b-404727255a97.png",
-                "width": 2880,
-                "language": "en",
-                "height": 1080,
-                "ratio": "8:3"
-              },
-              {
-                "path": "kK2aX5UBrjBfS2_RBcKf/posters/9223ae7a-59bf-4de5-be4e-5bd45b0877c0.png",
+                "path": "kK2aX5UBrjBfS2_RBcKf/posters/44c48a34-068f-475c-9568-6534fc80d3d3.png",
                 "width": 1920,
                 "language": "en",
                 "height": 1080,
                 "ratio": "16:9"
+              },
+              {
+                "path": "kK2aX5UBrjBfS2_RBcKf/posters/77d42f99-21a1-4817-aac1-f2561e8a7567.png",
+                "width": 2880,
+                "language": "en",
+                "height": 1080,
+                "ratio": "8:3"
               }
             ],
             "trailers": [],
@@ -2594,12 +2595,13 @@
               "Premium"
             ],
             "seo": {
-              "ogImage": "toffee/images/41e9ba4a-fcc5-4a3e-8c5b-095128c60785.png"
+              "ogImage": "toffee/images/282c5d65-4ee5-4beb-aa20-452c21e55547.png"
             },
             "tags": [
               "Zee Bangla",
               "freepreview"
-            ]
+            ],
+            "duration": 0
           },
           {
             "images": [
