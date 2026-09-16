@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-09-16 10:34:59",
+  "scraped_at": "2026-09-16 15:52:26",
   "auth": {
     "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
-    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=27065902-500a-4d3b-83d3-cb595819dbd0; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjJhYWZmMDlmLTU0ZWMtNDk4MC04Y2YzLTA5MjJjNjk4NGY0YSIsImV4cCI6MTc5MjE4NDY4MSwiaWF0IjoxNzg5NTU0ODgxLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijc3Yjk2ODVlLWJkMWUtNDc1Mi05ZWFlLTk4ODBkNDAwYzM5Yl8xNzg5NTU0ODgxIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMmFhZmYwOWYtNTRlYy00OTgwLThjZjMtMDkyMmM2OTg0ZjRhIiwic19pZCI6IjJhYWZmMDlmLTU0ZWMtNDk4MC04Y2YzLTA5MjJjNjk4NGY0YSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.U-q8e9gLIMAu78jcEg6bMjHR93aBTn923-sEi3eVZnVSm4-J-qHssresd7WYLiyLNDjsX6JUvjJ6YL3RT0ulZg; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjJhYWZmMDlmLTU0ZWMtNDk4MC04Y2YzLTA5MjJjNjk4NGY0YSIsImV4cCI6MTgwNTMzMzY4MSwiaWF0IjoxNzg5NTU0ODgxLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijc3Yjk2ODVlLWJkMWUtNDc1Mi05ZWFlLTk4ODBkNDAwYzM5Yl8xNzg5NTU0ODgxIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMmFhZmYwOWYtNTRlYy00OTgwLThjZjMtMDkyMmM2OTg0ZjRhIiwic19pZCI6IjJhYWZmMDlmLTU0ZWMtNDk4MC04Y2YzLTA5MjJjNjk4NGY0YSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.3aWZ0hKNeJgD2XL84t6mTyDZsdTyk-E8bqHs1bv5DxTfRdJFNmdbuXtYP7T_GYsfFUJM6ITkmGkYqsLL4haW9g; _fbp=fb.1.1789554884352.932745738309726631; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A91e0db54-02e8-4596-8d88-5e5388bb0a30%22%2C%22%24device_id%22%3A%2291e0db54-02e8-4596-8d88-5e5388bb0a30%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _gcl_au=1.1.1754128291.1789554886; _ga=GA1.1.1638652295.1789554886; _ga_02M4D9SN5F=GS2.1.s1789554885$o1$g0$t1789554885$j60$l0$h102950286",
+    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=101b2582-5b2c-4919-bd8c-eb0bbb25691d; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImRmMDEyNjc0LWNiNTItNDNkYi05YjRhLTM3OTYxMjdmYzAyNCIsImV4cCI6MTc5MjIwMzczMSwiaWF0IjoxNzg5NTczOTMxLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImU5YjFhN2M5LWI2YWUtNDZiZS04YWQ1LTYxNWVlMDc4ZTE4Nl8xNzg5NTczOTMxIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZGYwMTI2NzQtY2I1Mi00M2RiLTliNGEtMzc5NjEyN2ZjMDI0Iiwic19pZCI6ImRmMDEyNjc0LWNiNTItNDNkYi05YjRhLTM3OTYxMjdmYzAyNCIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.d88OWN0HzLx--98m6rX89Y19zBNZOO7yzXDcSDbawxE7Xmcyi3LlSJY6akU6JPjT6Gx19vsrueHB6_ePHCZ30A; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImRmMDEyNjc0LWNiNTItNDNkYi05YjRhLTM3OTYxMjdmYzAyNCIsImV4cCI6MTgwNTM1MjczMSwiaWF0IjoxNzg5NTczOTMxLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImU5YjFhN2M5LWI2YWUtNDZiZS04YWQ1LTYxNWVlMDc4ZTE4Nl8xNzg5NTczOTMxIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZGYwMTI2NzQtY2I1Mi00M2RiLTliNGEtMzc5NjEyN2ZjMDI0Iiwic19pZCI6ImRmMDEyNjc0LWNiNTItNDNkYi05YjRhLTM3OTYxMjdmYzAyNCIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.1opq-ZsxahBro9rGTqjaL73Y3xakxB5cV_xlFxPL4b6swrIXtmdQdgBsIfuOYGug_zC_R-2vNgJP0nT8tMqPtA; _fbp=fb.1.1789573933055.795590710911009208; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3Aeaafbe0d-87ed-418a-bd8f-0daeb88271e1%22%2C%22%24device_id%22%3A%22eaafbe0d-87ed-418a-bd8f-0daeb88271e1%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _gcl_au=1.1.1604668133.1789573934; _ga=GA1.1.1326519428.1789573934; _ga_02M4D9SN5F=GS2.1.s1789573934$o1$g0$t1789573934$j60$l0$h1899945457",
     "raw_cookies": [
       {
         "name": "toffee_locale",
@@ -30,31 +30,31 @@
       },
       {
         "name": "device_id",
-        "value": "27065902-500a-4d3b-83d3-cb595819dbd0",
+        "value": "101b2582-5b2c-4919-bd8c-eb0bbb25691d",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjJhYWZmMDlmLTU0ZWMtNDk4MC04Y2YzLTA5MjJjNjk4NGY0YSIsImV4cCI6MTc5MjE4NDY4MSwiaWF0IjoxNzg5NTU0ODgxLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijc3Yjk2ODVlLWJkMWUtNDc1Mi05ZWFlLTk4ODBkNDAwYzM5Yl8xNzg5NTU0ODgxIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMmFhZmYwOWYtNTRlYy00OTgwLThjZjMtMDkyMmM2OTg0ZjRhIiwic19pZCI6IjJhYWZmMDlmLTU0ZWMtNDk4MC04Y2YzLTA5MjJjNjk4NGY0YSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.U-q8e9gLIMAu78jcEg6bMjHR93aBTn923-sEi3eVZnVSm4-J-qHssresd7WYLiyLNDjsX6JUvjJ6YL3RT0ulZg",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImRmMDEyNjc0LWNiNTItNDNkYi05YjRhLTM3OTYxMjdmYzAyNCIsImV4cCI6MTc5MjIwMzczMSwiaWF0IjoxNzg5NTczOTMxLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImU5YjFhN2M5LWI2YWUtNDZiZS04YWQ1LTYxNWVlMDc4ZTE4Nl8xNzg5NTczOTMxIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZGYwMTI2NzQtY2I1Mi00M2RiLTliNGEtMzc5NjEyN2ZjMDI0Iiwic19pZCI6ImRmMDEyNjc0LWNiNTItNDNkYi05YjRhLTM3OTYxMjdmYzAyNCIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.d88OWN0HzLx--98m6rX89Y19zBNZOO7yzXDcSDbawxE7Xmcyi3LlSJY6akU6JPjT6Gx19vsrueHB6_ePHCZ30A",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_refresh_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjJhYWZmMDlmLTU0ZWMtNDk4MC04Y2YzLTA5MjJjNjk4NGY0YSIsImV4cCI6MTgwNTMzMzY4MSwiaWF0IjoxNzg5NTU0ODgxLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijc3Yjk2ODVlLWJkMWUtNDc1Mi05ZWFlLTk4ODBkNDAwYzM5Yl8xNzg5NTU0ODgxIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiMmFhZmYwOWYtNTRlYy00OTgwLThjZjMtMDkyMmM2OTg0ZjRhIiwic19pZCI6IjJhYWZmMDlmLTU0ZWMtNDk4MC04Y2YzLTA5MjJjNjk4NGY0YSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.3aWZ0hKNeJgD2XL84t6mTyDZsdTyk-E8bqHs1bv5DxTfRdJFNmdbuXtYP7T_GYsfFUJM6ITkmGkYqsLL4haW9g",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImRmMDEyNjc0LWNiNTItNDNkYi05YjRhLTM3OTYxMjdmYzAyNCIsImV4cCI6MTgwNTM1MjczMSwiaWF0IjoxNzg5NTczOTMxLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6ImU5YjFhN2M5LWI2YWUtNDZiZS04YWQ1LTYxNWVlMDc4ZTE4Nl8xNzg5NTczOTMxIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZGYwMTI2NzQtY2I1Mi00M2RiLTliNGEtMzc5NjEyN2ZjMDI0Iiwic19pZCI6ImRmMDEyNjc0LWNiNTItNDNkYi05YjRhLTM3OTYxMjdmYzAyNCIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.1opq-ZsxahBro9rGTqjaL73Y3xakxB5cV_xlFxPL4b6swrIXtmdQdgBsIfuOYGug_zC_R-2vNgJP0nT8tMqPtA",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "_fbp",
-        "value": "fb.1.1789554884352.932745738309726631",
+        "value": "fb.1.1789573933055.795590710911009208",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "mp_6019860d585d6c9cc82edba9d456e36c_mixpanel",
-        "value": "%7B%22distinct_id%22%3A%22%24device%3A91e0db54-02e8-4596-8d88-5e5388bb0a30%22%2C%22%24device_id%22%3A%2291e0db54-02e8-4596-8d88-5e5388bb0a30%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+        "value": "%7B%22distinct_id%22%3A%22%24device%3Aeaafbe0d-87ed-418a-bd8f-0daeb88271e1%22%2C%22%24device_id%22%3A%22eaafbe0d-87ed-418a-bd8f-0daeb88271e1%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
         "domain": ".toffeelive.com",
         "path": "/"
       },
@@ -66,19 +66,19 @@
       },
       {
         "name": "_gcl_au",
-        "value": "1.1.1754128291.1789554886",
+        "value": "1.1.1604668133.1789573934",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga",
-        "value": "GA1.1.1638652295.1789554886",
+        "value": "GA1.1.1326519428.1789573934",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga_02M4D9SN5F",
-        "value": "GS2.1.s1789554885$o1$g0$t1789554885$j60$l0$h102950286",
+        "value": "GS2.1.s1789573934$o1$g0$t1789573934$j60$l0$h1899945457",
         "domain": ".toffeelive.com",
         "path": "/"
       }
