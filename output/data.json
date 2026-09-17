@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-09-17 02:44:06",
+  "scraped_at": "2026-09-17 10:44:31",
   "auth": {
     "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
-    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=fd7db446-8dce-470d-9789-28e8e5878d53; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImUzMDEwZTA3LTVjMGYtNGVhMi04YjYzLWNmYTMxZWYyODgzYyIsImV4cCI6MTc5MjI0MjgyOSwiaWF0IjoxNzg5NjEzMDI5LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjExZmNhMTE2LTU2ZmYtNGIwMy1iOGNjLWUzYTVjMTE1ZmFjMl8xNzg5NjEzMDI5IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZTMwMTBlMDctNWMwZi00ZWEyLThiNjMtY2ZhMzFlZjI4ODNjIiwic19pZCI6ImUzMDEwZTA3LTVjMGYtNGVhMi04YjYzLWNmYTMxZWYyODgzYyIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.L3xJnU9Yav84C48t6havGQXBdGNiuueMSoJJmKLioNk49tFpjxt6j2GmkHPIGOyIsXUE851LW53_7UqoBBKvGw; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImUzMDEwZTA3LTVjMGYtNGVhMi04YjYzLWNmYTMxZWYyODgzYyIsImV4cCI6MTgwNTM5MTgyOSwiaWF0IjoxNzg5NjEzMDI5LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjExZmNhMTE2LTU2ZmYtNGIwMy1iOGNjLWUzYTVjMTE1ZmFjMl8xNzg5NjEzMDI5IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZTMwMTBlMDctNWMwZi00ZWEyLThiNjMtY2ZhMzFlZjI4ODNjIiwic19pZCI6ImUzMDEwZTA3LTVjMGYtNGVhMi04YjYzLWNmYTMxZWYyODgzYyIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.xW1_T68P6FeKUKrfruW-W-MPJCTQvEzBErp_r646mSFom0sZRCL7mBn7LB_Nko0BhBIrXbce9IXjeaIh9FL2bw; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A6f2a685f-2b1b-468e-b75b-d56383522c2f%22%2C%22%24device_id%22%3A%226f2a685f-2b1b-468e-b75b-d56383522c2f%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _fbp=fb.1.1789613032617.695349777828173507; _gcl_au=1.1.118534643.1789613034; _ga=GA1.1.871036504.1789613034; _ga_02M4D9SN5F=GS2.1.s1789613033$o1$g0$t1789613033$j60$l0$h385431952",
+    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=58fb587c-7e10-4d40-927a-83b820e3651b; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImNkYTMyYzNmLWM5ZTEtNGE5Yi05NWY4LWY0NTFkNjI2ZDMxOSIsImV4cCI6MTc5MjI3MTY1MywiaWF0IjoxNzg5NjQxODUzLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjliODU0MTI1LTYxYTItNDU0OC05ODhjLTk0YmFiOWUyYjc5OV8xNzg5NjQxODUzIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiY2RhMzJjM2YtYzllMS00YTliLTk1ZjgtZjQ1MWQ2MjZkMzE5Iiwic19pZCI6ImNkYTMyYzNmLWM5ZTEtNGE5Yi05NWY4LWY0NTFkNjI2ZDMxOSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.UZymQSBnL4z_uh4pJpYRG-UEdb2VDAr5Kdi1FsiOs5Jk3exIjhaU-SugvGgJAas8AMTwd6q0IcHuDx-4hmPYXw; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImNkYTMyYzNmLWM5ZTEtNGE5Yi05NWY4LWY0NTFkNjI2ZDMxOSIsImV4cCI6MTgwNTQyMDY1MywiaWF0IjoxNzg5NjQxODUzLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjliODU0MTI1LTYxYTItNDU0OC05ODhjLTk0YmFiOWUyYjc5OV8xNzg5NjQxODUzIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiY2RhMzJjM2YtYzllMS00YTliLTk1ZjgtZjQ1MWQ2MjZkMzE5Iiwic19pZCI6ImNkYTMyYzNmLWM5ZTEtNGE5Yi05NWY4LWY0NTFkNjI2ZDMxOSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.xJYB4l-hbOq0gh-lxPaeupd1kPs73_x4w-JxE648uKfYAHH5R0HSbRmyrPlPgk0XPHSk3Clj2X-NHtpNZzrFOw; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3Ab72f6dbc-27f2-4c55-a997-a8ee8106215f%22%2C%22%24device_id%22%3A%22b72f6dbc-27f2-4c55-a997-a8ee8106215f%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _fbp=fb.1.1789641856632.186627216705806851; _gcl_au=1.1.1574897412.1789641857; _ga=GA1.1.1545534580.1789641857; _ga_02M4D9SN5F=GS2.1.s1789641857$o1$g0$t1789641857$j60$l0$h2076784061",
     "raw_cookies": [
       {
         "name": "toffee_locale",
@@ -30,25 +30,25 @@
       },
       {
         "name": "device_id",
-        "value": "fd7db446-8dce-470d-9789-28e8e5878d53",
+        "value": "58fb587c-7e10-4d40-927a-83b820e3651b",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImUzMDEwZTA3LTVjMGYtNGVhMi04YjYzLWNmYTMxZWYyODgzYyIsImV4cCI6MTc5MjI0MjgyOSwiaWF0IjoxNzg5NjEzMDI5LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjExZmNhMTE2LTU2ZmYtNGIwMy1iOGNjLWUzYTVjMTE1ZmFjMl8xNzg5NjEzMDI5IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZTMwMTBlMDctNWMwZi00ZWEyLThiNjMtY2ZhMzFlZjI4ODNjIiwic19pZCI6ImUzMDEwZTA3LTVjMGYtNGVhMi04YjYzLWNmYTMxZWYyODgzYyIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.L3xJnU9Yav84C48t6havGQXBdGNiuueMSoJJmKLioNk49tFpjxt6j2GmkHPIGOyIsXUE851LW53_7UqoBBKvGw",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImNkYTMyYzNmLWM5ZTEtNGE5Yi05NWY4LWY0NTFkNjI2ZDMxOSIsImV4cCI6MTc5MjI3MTY1MywiaWF0IjoxNzg5NjQxODUzLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjliODU0MTI1LTYxYTItNDU0OC05ODhjLTk0YmFiOWUyYjc5OV8xNzg5NjQxODUzIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiY2RhMzJjM2YtYzllMS00YTliLTk1ZjgtZjQ1MWQ2MjZkMzE5Iiwic19pZCI6ImNkYTMyYzNmLWM5ZTEtNGE5Yi05NWY4LWY0NTFkNjI2ZDMxOSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.UZymQSBnL4z_uh4pJpYRG-UEdb2VDAr5Kdi1FsiOs5Jk3exIjhaU-SugvGgJAas8AMTwd6q0IcHuDx-4hmPYXw",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_refresh_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImUzMDEwZTA3LTVjMGYtNGVhMi04YjYzLWNmYTMxZWYyODgzYyIsImV4cCI6MTgwNTM5MTgyOSwiaWF0IjoxNzg5NjEzMDI5LCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjExZmNhMTE2LTU2ZmYtNGIwMy1iOGNjLWUzYTVjMTE1ZmFjMl8xNzg5NjEzMDI5IiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiZTMwMTBlMDctNWMwZi00ZWEyLThiNjMtY2ZhMzFlZjI4ODNjIiwic19pZCI6ImUzMDEwZTA3LTVjMGYtNGVhMi04YjYzLWNmYTMxZWYyODgzYyIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.xW1_T68P6FeKUKrfruW-W-MPJCTQvEzBErp_r646mSFom0sZRCL7mBn7LB_Nko0BhBIrXbce9IXjeaIh9FL2bw",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6ImNkYTMyYzNmLWM5ZTEtNGE5Yi05NWY4LWY0NTFkNjI2ZDMxOSIsImV4cCI6MTgwNTQyMDY1MywiaWF0IjoxNzg5NjQxODUzLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjliODU0MTI1LTYxYTItNDU0OC05ODhjLTk0YmFiOWUyYjc5OV8xNzg5NjQxODUzIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiY2RhMzJjM2YtYzllMS00YTliLTk1ZjgtZjQ1MWQ2MjZkMzE5Iiwic19pZCI6ImNkYTMyYzNmLWM5ZTEtNGE5Yi05NWY4LWY0NTFkNjI2ZDMxOSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.xJYB4l-hbOq0gh-lxPaeupd1kPs73_x4w-JxE648uKfYAHH5R0HSbRmyrPlPgk0XPHSk3Clj2X-NHtpNZzrFOw",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "mp_6019860d585d6c9cc82edba9d456e36c_mixpanel",
-        "value": "%7B%22distinct_id%22%3A%22%24device%3A6f2a685f-2b1b-468e-b75b-d56383522c2f%22%2C%22%24device_id%22%3A%226f2a685f-2b1b-468e-b75b-d56383522c2f%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+        "value": "%7B%22distinct_id%22%3A%22%24device%3Ab72f6dbc-27f2-4c55-a997-a8ee8106215f%22%2C%22%24device_id%22%3A%22b72f6dbc-27f2-4c55-a997-a8ee8106215f%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
         "domain": ".toffeelive.com",
         "path": "/"
       },
@@ -60,25 +60,25 @@
       },
       {
         "name": "_fbp",
-        "value": "fb.1.1789613032617.695349777828173507",
+        "value": "fb.1.1789641856632.186627216705806851",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_gcl_au",
-        "value": "1.1.118534643.1789613034",
+        "value": "1.1.1574897412.1789641857",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga",
-        "value": "GA1.1.871036504.1789613034",
+        "value": "GA1.1.1545534580.1789641857",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga_02M4D9SN5F",
-        "value": "GS2.1.s1789613033$o1$g0$t1789613033$j60$l0$h385431952",
+        "value": "GS2.1.s1789641857$o1$g0$t1789641857$j60$l0$h2076784061",
         "domain": ".toffeelive.com",
         "path": "/"
       }
@@ -999,56 +999,9 @@
               "epl"
             ],
             "duration": 0
-          },
-          {
-            "fullSynopsis": "",
-            "images": [
-              {
-                "path": "V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",
-                "width": 240,
-                "language": "en",
-                "height": 240,
-                "ratio": "1:1"
-              }
-            ],
-            "chapters": [],
-            "catogory": [
-              "Sports",
-              "Live Action"
-            ],
-            "shortTitle": "WC 2026",
-            "media": [
-              {
-                "mediaId": "Z_-s054BObUt2AG6hLzT"
-              }
-            ],
-            "title": "WC Match Recap",
-            "syndicateId": 384344314,
-            "v_type": "channels",
-            "tags": [],
-            "trailers": [],
-            "badge": [],
-            "cast": [],
-            "v_status": "PUBLISHED",
-            "v_published": true,
-            "genres": [
-              "Sports"
-            ],
-            "v_user": "52",
-            "v_has_draft": false,
-            "subType": "Live_TV",
-            "id": "V__o054BObUt2AG6LL5C",
-            "seo": {
-              "description": "WC Match Recap",
-              "title": "WC Match Recap",
-              "ogImage": "toffee/images/37b1c3a1-8116-450c-b7b0-d7eda2bac18c.jpeg"
-            },
-            "priceRules": [],
-            "v_tt": 1784015536032,
-            "licensing": []
           }
         ],
-        "total": 2
+        "total": 1
       }
     },
     {
