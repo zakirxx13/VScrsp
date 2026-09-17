@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-09-17 15:58:20",
+  "scraped_at": "2026-09-17 20:48:29",
   "auth": {
     "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
-    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=cda19ee3-7916-4e4f-92a9-14f00f6595ab; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjU0YWM1NzZkLTA5MWEtNGRiMC1iMDMwLWZhYWUyY2YxYmE3MiIsImV4cCI6MTc5MjI5MDQ4MiwiaWF0IjoxNzg5NjYwNjgyLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjYyMDRkMWUzLTYwNmYtNGEzOS1hY2RhLWU4OWRkOTI2YjczZl8xNzg5NjYwNjgyIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNTRhYzU3NmQtMDkxYS00ZGIwLWIwMzAtZmFhZTJjZjFiYTcyIiwic19pZCI6IjU0YWM1NzZkLTA5MWEtNGRiMC1iMDMwLWZhYWUyY2YxYmE3MiIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.RxnpIq3QgBzgXAx86P1IfFH8MlbtwL1dxxkC_tqTGfFMld3JK5G4CxInl6JWlIxNmKJTVa30n3Vol6KVbRHOOw; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjU0YWM1NzZkLTA5MWEtNGRiMC1iMDMwLWZhYWUyY2YxYmE3MiIsImV4cCI6MTgwNTQzOTQ4MiwiaWF0IjoxNzg5NjYwNjgyLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjYyMDRkMWUzLTYwNmYtNGEzOS1hY2RhLWU4OWRkOTI2YjczZl8xNzg5NjYwNjgyIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNTRhYzU3NmQtMDkxYS00ZGIwLWIwMzAtZmFhZTJjZjFiYTcyIiwic19pZCI6IjU0YWM1NzZkLTA5MWEtNGRiMC1iMDMwLWZhYWUyY2YxYmE3MiIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.xjtTFEzogrmPEFeffWA2j1_ywY2f0XnUB7egHc3Avgrt6UJo-_XTWbWfQN-AvTkorhCspfJ63l9eX2Hj1JLCIQ; _fbp=fb.1.1789660683413.526244215267720842; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3Afbf79256-d1a3-420f-b917-2435c999aca9%22%2C%22%24device_id%22%3A%22fbf79256-d1a3-420f-b917-2435c999aca9%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _gcl_au=1.1.1461314201.1789660687; _ga=GA1.1.1579774323.1789660687; _ga_02M4D9SN5F=GS2.1.s1789660686$o1$g0$t1789660686$j60$l0$h257210197",
+    "cookies": "toffee_locale=en; country=US; state=DHK; allowed_countries=BD; device_id=6e5b54a7-47c9-4f9e-8a71-c2189e7423e7; device_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjY4NjYzOWQwLWI1ZjYtNDNkNS1hZTczLTgxZDExMWI0YjA5YSIsImV4cCI6MTc5MjMwNzg5MCwiaWF0IjoxNzg5Njc4MDkwLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijk1ODAxOTZlLTdlZGUtNDU0Zi1hMWI1LTM1ODdjOTM5ZmQzNF8xNzg5Njc4MDkwIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNjg2NjM5ZDAtYjVmNi00M2Q1LWFlNzMtODFkMTExYjRiMDlhIiwic19pZCI6IjY4NjYzOWQwLWI1ZjYtNDNkNS1hZTczLTgxZDExMWI0YjA5YSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.H5Yd6Q6YktdWZUnus2TaALO-mzL4sX4qXSMZaZP-JB-jrNwG4ZWy1Udq-cojpaAWggw0sQV8uLlZHXj4BnsGiQ; device_refresh_token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjY4NjYzOWQwLWI1ZjYtNDNkNS1hZTczLTgxZDExMWI0YjA5YSIsImV4cCI6MTgwNTQ1Njg5MCwiaWF0IjoxNzg5Njc4MDkwLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijk1ODAxOTZlLTdlZGUtNDU0Zi1hMWI1LTM1ODdjOTM5ZmQzNF8xNzg5Njc4MDkwIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNjg2NjM5ZDAtYjVmNi00M2Q1LWFlNzMtODFkMTExYjRiMDlhIiwic19pZCI6IjY4NjYzOWQwLWI1ZjYtNDNkNS1hZTczLTgxZDExMWI0YjA5YSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.mCGJ0gl8HzR5AtAYzus__vO1Qvjc9LsZKTq-NCQf8Ray_2_0V69zwa5AdOEcJrwKyf8xN2AdXK7srOuGWy6B0g; _fbp=fb.1.1789678093273.336976920239090413; mp_6019860d585d6c9cc82edba9d456e36c_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A0960fdaf-5d2d-410d-8384-5cb1ece6236b%22%2C%22%24device_id%22%3A%220960fdaf-5d2d-410d-8384-5cb1ece6236b%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; WZRK_S_R57-668-777Z=%7B%22p%22%3A1%7D; _gcl_au=1.1.990650923.1789678096; _ga=GA1.1.443747970.1789678096; _ga_02M4D9SN5F=GS2.1.s1789678095$o1$g0$t1789678095$j60$l0$h377065983",
     "raw_cookies": [
       {
         "name": "toffee_locale",
@@ -30,31 +30,31 @@
       },
       {
         "name": "device_id",
-        "value": "cda19ee3-7916-4e4f-92a9-14f00f6595ab",
+        "value": "6e5b54a7-47c9-4f9e-8a71-c2189e7423e7",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjU0YWM1NzZkLTA5MWEtNGRiMC1iMDMwLWZhYWUyY2YxYmE3MiIsImV4cCI6MTc5MjI5MDQ4MiwiaWF0IjoxNzg5NjYwNjgyLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjYyMDRkMWUzLTYwNmYtNGEzOS1hY2RhLWU4OWRkOTI2YjczZl8xNzg5NjYwNjgyIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNTRhYzU3NmQtMDkxYS00ZGIwLWIwMzAtZmFhZTJjZjFiYTcyIiwic19pZCI6IjU0YWM1NzZkLTA5MWEtNGRiMC1iMDMwLWZhYWUyY2YxYmE3MiIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.RxnpIq3QgBzgXAx86P1IfFH8MlbtwL1dxxkC_tqTGfFMld3JK5G4CxInl6JWlIxNmKJTVa30n3Vol6KVbRHOOw",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjY4NjYzOWQwLWI1ZjYtNDNkNS1hZTczLTgxZDExMWI0YjA5YSIsImV4cCI6MTc5MjMwNzg5MCwiaWF0IjoxNzg5Njc4MDkwLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijk1ODAxOTZlLTdlZGUtNDU0Zi1hMWI1LTM1ODdjOTM5ZmQzNF8xNzg5Njc4MDkwIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNjg2NjM5ZDAtYjVmNi00M2Q1LWFlNzMtODFkMTExYjRiMDlhIiwic19pZCI6IjY4NjYzOWQwLWI1ZjYtNDNkNS1hZTczLTgxZDExMWI0YjA5YSIsInRva2VuIjoiYWNjZXNzIiwidHlwZSI6ImRldmljZSJ9.H5Yd6Q6YktdWZUnus2TaALO-mzL4sX4qXSMZaZP-JB-jrNwG4ZWy1Udq-cojpaAWggw0sQV8uLlZHXj4BnsGiQ",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "device_refresh_token",
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjU0YWM1NzZkLTA5MWEtNGRiMC1iMDMwLWZhYWUyY2YxYmE3MiIsImV4cCI6MTgwNTQzOTQ4MiwiaWF0IjoxNzg5NjYwNjgyLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6IjYyMDRkMWUzLTYwNmYtNGEzOS1hY2RhLWU4OWRkOTI2YjczZl8xNzg5NjYwNjgyIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNTRhYzU3NmQtMDkxYS00ZGIwLWIwMzAtZmFhZTJjZjFiYTcyIiwic19pZCI6IjU0YWM1NzZkLTA5MWEtNGRiMC1iMDMwLWZhYWUyY2YxYmE3MiIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.xjtTFEzogrmPEFeffWA2j1_ywY2f0XnUB7egHc3Avgrt6UJo-_XTWbWfQN-AvTkorhCspfJ63l9eX2Hj1JLCIQ",
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL3RvZmZlZWxpdmUuY29tIiwiY291bnRyeSI6IlVTIiwiZF9pZCI6IjY4NjYzOWQwLWI1ZjYtNDNkNS1hZTczLTgxZDExMWI0YjA5YSIsImV4cCI6MTgwNTQ1Njg5MCwiaWF0IjoxNzg5Njc4MDkwLCJpc3MiOiJ0b2ZmZWVsaXZlLmNvbSIsImp0aSI6Ijk1ODAxOTZlLTdlZGUtNDU0Zi1hMWI1LTM1ODdjOTM5ZmQzNF8xNzg5Njc4MDkwIiwicHJvdmlkZXIiOiJ0b2ZmZWUiLCJyX2lkIjoiNjg2NjM5ZDAtYjVmNi00M2Q1LWFlNzMtODFkMTExYjRiMDlhIiwic19pZCI6IjY4NjYzOWQwLWI1ZjYtNDNkNS1hZTczLTgxZDExMWI0YjA5YSIsInRva2VuIjoicmVmcmVzaCIsInR5cGUiOiJkZXZpY2UifQ.mCGJ0gl8HzR5AtAYzus__vO1Qvjc9LsZKTq-NCQf8Ray_2_0V69zwa5AdOEcJrwKyf8xN2AdXK7srOuGWy6B0g",
         "domain": "toffeelive.com",
         "path": "/"
       },
       {
         "name": "_fbp",
-        "value": "fb.1.1789660683413.526244215267720842",
+        "value": "fb.1.1789678093273.336976920239090413",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "mp_6019860d585d6c9cc82edba9d456e36c_mixpanel",
-        "value": "%7B%22distinct_id%22%3A%22%24device%3Afbf79256-d1a3-420f-b917-2435c999aca9%22%2C%22%24device_id%22%3A%22fbf79256-d1a3-420f-b917-2435c999aca9%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+        "value": "%7B%22distinct_id%22%3A%22%24device%3A0960fdaf-5d2d-410d-8384-5cb1ece6236b%22%2C%22%24device_id%22%3A%220960fdaf-5d2d-410d-8384-5cb1ece6236b%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
         "domain": ".toffeelive.com",
         "path": "/"
       },
@@ -66,19 +66,19 @@
       },
       {
         "name": "_gcl_au",
-        "value": "1.1.1461314201.1789660687",
+        "value": "1.1.990650923.1789678096",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga",
-        "value": "GA1.1.1579774323.1789660687",
+        "value": "GA1.1.443747970.1789678096",
         "domain": ".toffeelive.com",
         "path": "/"
       },
       {
         "name": "_ga_02M4D9SN5F",
-        "value": "GS2.1.s1789660686$o1$g0$t1789660686$j60$l0$h257210197",
+        "value": "GS2.1.s1789678095$o1$g0$t1789678095$j60$l0$h377065983",
         "domain": ".toffeelive.com",
         "path": "/"
       }
@@ -999,9 +999,370 @@
               "epl"
             ],
             "duration": 0
+          },
+          {
+            "channelNumber": "",
+            "catogory": [
+              "Sports"
+            ],
+            "shortTitle": "BFL | Live 1",
+            "media": [
+              {
+                "pgRating": "U",
+                "mediaId": "wdWEqaABalKyvLQIrVB2"
+              }
+            ],
+            "title": "BFL | Live 1",
+            "duration": 0,
+            "cast": [],
+            "v_status": "PUBLISHED",
+            "defaultLanguage": "bn",
+            "v_published": true,
+            "pgRating": "U",
+            "genres": [
+              "Sports",
+              "Live Action"
+            ],
+            "id": "HHnAgJkBcqxnFHJBabwO",
+            "seo": {
+              "keywords": "BFL | Live 1 ",
+              "title": "BFL | Live 1 ",
+              "ogImage": "toffee/images/9347aaa6-cbbe-4fa0-bd1c-e379035fcf9c.png"
+            },
+            "releaseYear": 2025,
+            "v_tt": 1789668762409,
+            "licensing": [],
+            "images": [
+              {
+                "path": "HHnAgJkBcqxnFHJBabwO/posters/b45b3a6e-911c-4bd7-83ce-ddce91047ce3.png",
+                "width": 240,
+                "language": "en",
+                "height": 240,
+                "ratio": "1:1"
+              },
+              {
+                "path": "HHnAgJkBcqxnFHJBabwO/posters/9373b256-be16-43ec-9124-7cd3eb00e2d2.png",
+                "width": 1280,
+                "language": "en",
+                "height": 1920,
+                "ratio": "2:3"
+              },
+              {
+                "path": "HHnAgJkBcqxnFHJBabwO/posters/9211d1e1-978b-4a10-b687-b64ff56be856.png",
+                "width": 1920,
+                "language": "en",
+                "height": 1080,
+                "ratio": "16:9"
+              },
+              {
+                "path": "HHnAgJkBcqxnFHJBabwO/posters/9fc4f326-c312-46cd-9744-3a138b927a46.png",
+                "width": 2880,
+                "language": "en",
+                "height": 1080,
+                "ratio": "8:3"
+              }
+            ],
+            "syndicateId": 945885921,
+            "v_type": "channels",
+            "tags": [
+              "BFL",
+              "livetv",
+              "LiveTV"
+            ],
+            "trailers": [],
+            "shortSynopsis": "",
+            "v_user": "35",
+            "v_has_draft": false,
+            "subType": "Live_TV"
+          },
+          {
+            "images": [
+              {
+                "path": "MXnGgJkBcqxnFHJBILyR/posters/7ac4e6b8-f3f2-4985-9d83-f75dee1caa76.png",
+                "width": 240,
+                "language": "en",
+                "height": 240,
+                "ratio": "1:1"
+              },
+              {
+                "path": "MXnGgJkBcqxnFHJBILyR/posters/98213e1b-0b14-4336-8d4c-6ff69c89e0d4.png",
+                "width": 1280,
+                "language": "en",
+                "height": 1920,
+                "ratio": "2:3"
+              },
+              {
+                "path": "MXnGgJkBcqxnFHJBILyR/posters/e7209449-267a-40bf-83ae-d36ca92d7312.png",
+                "width": 1920,
+                "language": "en",
+                "height": 1080,
+                "ratio": "16:9"
+              },
+              {
+                "path": "MXnGgJkBcqxnFHJBILyR/posters/d140e897-15f0-45f3-8c9b-db3681a26b87.png",
+                "width": 2880,
+                "language": "en",
+                "height": 1080,
+                "ratio": "8:3"
+              }
+            ],
+            "catogory": [
+              "Sports"
+            ],
+            "shortTitle": "BFL | Live 12",
+            "media": [
+              {
+                "mediaId": "qYSGqaABJIOHmUelFoYM"
+              }
+            ],
+            "title": "BFL | Live 2",
+            "syndicateId": 378569681,
+            "v_type": "channels",
+            "tags": [
+              "BFL",
+              "LiveTV",
+              "livetv"
+            ],
+            "trailers": [],
+            "shortSynopsis": "",
+            "cast": [],
+            "v_status": "PUBLISHED",
+            "defaultLanguage": "bn",
+            "v_published": true,
+            "pgRating": "U",
+            "genres": [
+              "Sports",
+              "Live Action"
+            ],
+            "v_user": "35",
+            "v_has_draft": false,
+            "subType": "Live_TV",
+            "id": "MXnGgJkBcqxnFHJBILyR",
+            "seo": {
+              "keywords": "BFL | Live 2",
+              "title": "BFL | Live 2",
+              "ogImage": "toffee/images/ffde675b-f4b3-401f-b29f-164a6b8a64f1.png"
+            },
+            "releaseYear": "2025",
+            "v_tt": 1789668986280,
+            "licensing": [],
+            "duration": 0
+          },
+          {
+            "images": [
+              {
+                "path": "LnlKhJkBcqxnFHJBU8GM/posters/34179917-2739-4d86-9189-3f7caf5581ba.png",
+                "width": 240,
+                "language": "en",
+                "height": 240,
+                "ratio": "1:1"
+              },
+              {
+                "path": "LnlKhJkBcqxnFHJBU8GM/posters/b211b7cf-9e92-43ba-9f51-7190210308cc.png",
+                "width": 1280,
+                "language": "en",
+                "height": 1920,
+                "ratio": "2:3"
+              },
+              {
+                "path": "LnlKhJkBcqxnFHJBU8GM/posters/aa42ef54-6944-4693-9755-84fd82b926cf.png",
+                "width": 1920,
+                "language": "en",
+                "height": 1080,
+                "ratio": "16:9"
+              },
+              {
+                "path": "LnlKhJkBcqxnFHJBU8GM/posters/1ffcf597-8b0b-4c7e-ba16-4439931160f0.png",
+                "width": 2880,
+                "language": "en",
+                "height": 1080,
+                "ratio": "8:3"
+              }
+            ],
+            "catogory": [
+              "Sports"
+            ],
+            "shortTitle": "BFL |",
+            "media": [
+              {
+                "pgRating": "U",
+                "mediaId": "sISGqaABJIOHmUelw4YP"
+              }
+            ],
+            "title": "BFL | Live 3",
+            "syndicateId": 255839179,
+            "v_type": "channels",
+            "tags": [
+              "BFL",
+              "LiveTV",
+              "livetv"
+            ],
+            "trailers": [],
+            "shortSynopsis": "",
+            "v_status": "PUBLISHED",
+            "defaultLanguage": "bn",
+            "v_published": true,
+            "pgRating": "U",
+            "genres": [
+              "Sports",
+              "Live Action"
+            ],
+            "v_user": "35",
+            "v_has_draft": false,
+            "subType": "Live_TV",
+            "id": "LnlKhJkBcqxnFHJBU8GM",
+            "seo": {
+              "keywords": "BFL | Live 3",
+              "title": "BFL | Live 3",
+              "ogImage": "toffee/images/c5aa4b39-2901-413e-ba99-329da3a94ba5.png"
+            },
+            "releaseYear": "2023",
+            "v_tt": 1789669096346,
+            "chapters": [],
+            "duration": 0,
+            "cast": [],
+            "licensing": []
+          },
+          {
+            "images": [
+              {
+                "path": "Ey9jtJoBNnOkwJLWw06R/posters/edeeddb4-e2c8-47cd-adbf-96ea47525709.png",
+                "width": 240,
+                "language": "en",
+                "height": 240,
+                "ratio": "1:1"
+              },
+              {
+                "path": "Ey9jtJoBNnOkwJLWw06R/posters/2909f970-8587-4b9d-8e66-d184470a3085.png",
+                "width": 1280,
+                "language": "en",
+                "height": 1920,
+                "ratio": "2:3"
+              },
+              {
+                "path": "Ey9jtJoBNnOkwJLWw06R/posters/2523d5a9-9d21-494a-9de2-5723dc5012b9.png",
+                "width": 1920,
+                "language": "en",
+                "height": 1080,
+                "ratio": "16:9"
+              },
+              {
+                "path": "Ey9jtJoBNnOkwJLWw06R/posters/198b75f1-d9b6-49e8-8a9d-73fe1c184b2b.png",
+                "width": 2880,
+                "language": "en",
+                "height": 1080,
+                "ratio": "8:3"
+              }
+            ],
+            "catogory": [
+              "Sports"
+            ],
+            "shortTitle": " BFL | Live 4",
+            "media": [
+              {
+                "mediaId": "wISIqaABJIOHmUelM4bz"
+              }
+            ],
+            "title": " BFL | Live 4",
+            "syndicateId": 815213647,
+            "v_type": "channels",
+            "tags": [
+              "BFL",
+              "Livetv"
+            ],
+            "trailers": [],
+            "cast": [],
+            "v_status": "PUBLISHED",
+            "defaultLanguage": "bn",
+            "v_published": true,
+            "pgRating": "U",
+            "genres": [
+              "Sports",
+              "Live Action"
+            ],
+            "v_user": "35",
+            "v_has_draft": false,
+            "subType": "Live_TV",
+            "id": "Ey9jtJoBNnOkwJLWw06R",
+            "seo": {
+              "title": " BFL | Live 4",
+              "ogImage": "toffee/images/984dcf64-607a-400f-80ee-454e0a72e1c7.png"
+            },
+            "releaseYear": "2022",
+            "v_tt": 1789669202692,
+            "chapters": [],
+            "duration": 0,
+            "licensing": []
+          },
+          {
+            "images": [
+              {
+                "path": "nUB7JJ4BuUSiBsg_sKJF/posters/8b6b9cd9-f5fc-48eb-9e17-7ec484dee6e8.png",
+                "width": 240,
+                "language": "en",
+                "height": 240,
+                "ratio": "1:1"
+              },
+              {
+                "path": "nUB7JJ4BuUSiBsg_sKJF/posters/898064d9-c8a0-4372-8df1-23c3c96b454c.png",
+                "width": 1280,
+                "language": "en",
+                "height": 1920,
+                "ratio": "2:3"
+              },
+              {
+                "path": "nUB7JJ4BuUSiBsg_sKJF/posters/ee9f7c12-226b-4343-b573-4319306b46e8.png",
+                "width": 1920,
+                "language": "en",
+                "height": 1080,
+                "ratio": "16:9"
+              },
+              {
+                "path": "nUB7JJ4BuUSiBsg_sKJF/posters/a23af82f-8e92-410f-8dec-e19b2f64a417.png",
+                "width": 2880,
+                "language": "en",
+                "height": 1080,
+                "ratio": "8:3"
+              }
+            ],
+            "catogory": [
+              "Sports"
+            ],
+            "shortTitle": "BFL | Live 5",
+            "media": [
+              {
+                "mediaId": "xoSJqaABJIOHmUelyYaj"
+              }
+            ],
+            "title": "BFL | Live 5",
+            "syndicateId": 61425913,
+            "v_type": "channels",
+            "tags": [
+              "BFL",
+              "LiveTv"
+            ],
+            "trailers": [],
+            "v_status": "PUBLISHED",
+            "defaultLanguage": "bn",
+            "v_published": true,
+            "pgRating": "U",
+            "genres": [
+              "Sports",
+              "Live Action"
+            ],
+            "v_user": "35",
+            "v_has_draft": false,
+            "subType": "Live_TV",
+            "id": "nUB7JJ4BuUSiBsg_sKJF",
+            "seo": {
+              "title": "BFL | Live 5",
+              "ogImage": "toffee/images/f662afff-a4fd-4353-9129-cfd1f1569b12.png"
+            },
+            "v_tt": 1789669307358,
+            "duration": 0
           }
         ],
-        "total": 1
+        "total": 6
       }
     },
     {
