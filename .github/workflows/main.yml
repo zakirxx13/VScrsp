@@ -1,45 +1,214 @@
-name: M3U8 Black Box Test
+name: M3U8 Black Box Debug
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  baseline:
+  test:
     runs-on: ubuntu-latest
 
+    env:
+      TARGET_HOST: "bldcmprod-cdn.toffeelive.com"
+      TARGET_URL: "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8"
+
+      # TEST ONLY — rotate this credential after testing
+      EDGE_CACHE_COOKIE: "URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1790002560:KeyName=prod_linear:Signature=QCQRc38fxcB1OJwFjuSE9QM3EGrG8r_6BRTO5qn-lijmx7s8NyOdr8cq8iQCgg4jkdDlsoBNqSOCJkNrg_z2BA"
+
     steps:
-      - name: Test M3U8 without authentication cookie
-        env:
-          TARGET_URL: "https://bldcmprod-cdn.toffee.com/cdn/live/cnn/playlist.m3u8"
+
+      # ==========================================
+      # CHECKOUT
+      # ==========================================
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ==========================================
+      # DEBUG DIRECTORY
+      # ==========================================
+      - name: Prepare debug directory
         run: |
+          rm -rf debug/m3u8
+          mkdir -p debug/m3u8
+
+      # ==========================================
+      # DNS
+      # ==========================================
+      - name: DNS test
+        run: |
+          {
+            echo "===== GETENT ====="
+            getent hosts "$TARGET_HOST" || true
+
+            echo
+            echo "===== NSLOOKUP ====="
+            nslookup "$TARGET_HOST" || true
+
+            echo
+            echo "===== DIG A ====="
+            dig "$TARGET_HOST" A +short || true
+
+            echo
+            echo "===== DIG AAAA ====="
+            dig "$TARGET_HOST" AAAA +short || true
+          } | tee debug/m3u8/dns.txt
+
+      # ==========================================
+      # HTTPS CONNECTIVITY
+      # ==========================================
+      - name: HTTPS connectivity
+        run: |
+          set +e
+
+          curl -4 -Iv \
+            --connect-timeout 15 \
+            --max-time 30 \
+            "$TARGET_URL" \
+            > debug/m3u8/https.txt 2>&1
+
+          echo "CURL_EXIT=$?" >> debug/m3u8/https.txt
+
+          cat debug/m3u8/https.txt
+
           set -e
 
-          echo "=============================="
-          echo " M3U8 BASELINE TEST"
-          echo "=============================="
+      # ==========================================
+      # TEST WITHOUT COOKIE
+      # ==========================================
+      - name: M3U8 test without cookie
+        run: |
+          set +e
 
-          curl -sS \
-            -D headers.txt \
-            -o playlist.txt \
-            -w "\nHTTP_STATUS=%{http_code}\nCONTENT_TYPE=%{content_type}\nSIZE=%{size_download}\n" \
-            "$TARGET_URL"
+          curl -4 -sS \
+            -D debug/m3u8/no_cookie_headers.txt \
+            -o debug/m3u8/no_cookie_body.txt \
+            --connect-timeout 15 \
+            --max-time 30 \
+            -w "HTTP_STATUS=%{http_code}\nCONTENT_TYPE=%{content_type}\nSIZE=%{size_download}\nTIME=%{time_total}\n" \
+            "$TARGET_URL" \
+            > debug/m3u8/no_cookie_result.txt 2>&1
 
-          echo ""
-          echo "=== RESPONSE HEADERS ==="
-          cat headers.txt
+          echo "CURL_EXIT=$?" >> debug/m3u8/no_cookie_result.txt
 
-          echo ""
-          echo "=== PLAYLIST PREVIEW ==="
-          head -c 2000 playlist.txt
+          cat debug/m3u8/no_cookie_result.txt
 
-          echo ""
-          echo ""
-          echo "=== RESULT ==="
+          set -e
 
-          STATUS=$(awk 'NR==1 {print $2}' headers.txt)
+      # ==========================================
+      # TEST WITH COOKIE
+      # ==========================================
+      - name: M3U8 test with Edge-Cache-Cookie
+        run: |
+          set +e
 
-          if [ "$STATUS" = "200" ]; then
-            echo "M3U8 accessible WITHOUT cookie."
-          else
-            echo "M3U8 rejected WITHOUT cookie."
+          curl -4 -sS \
+            -D debug/m3u8/cookie_headers.txt \
+            -o debug/m3u8/cookie_body.txt \
+            --connect-timeout 15 \
+            --max-time 30 \
+            -H "Cookie: Edge-Cache-Cookie=${EDGE_CACHE_COOKIE}" \
+            -w "HTTP_STATUS=%{http_code}\nCONTENT_TYPE=%{content_type}\nSIZE=%{size_download}\nTIME=%{time_total}\n" \
+            "$TARGET_URL" \
+            > debug/m3u8/cookie_result.txt 2>&1
+
+          echo "CURL_EXIT=$?" >> debug/m3u8/cookie_result.txt
+
+          cat debug/m3u8/cookie_result.txt
+
+          set -e
+
+      # ==========================================
+      # PLAYLIST ANALYSIS
+      # ==========================================
+      - name: Analyze playlist
+        run: |
+          {
+            echo "===== WITHOUT COOKIE ====="
+
+            if [ -s debug/m3u8/no_cookie_body.txt ]; then
+              echo "Body size:"
+              wc -c debug/m3u8/no_cookie_body.txt
+
+              echo
+              echo "First 100 lines:"
+              head -n 100 debug/m3u8/no_cookie_body.txt
+            else
+              echo "No response body."
+            fi
+
+            echo
+            echo "===== WITH COOKIE ====="
+
+            if [ -s debug/m3u8/cookie_body.txt ]; then
+              echo "Body size:"
+              wc -c debug/m3u8/cookie_body.txt
+
+              echo
+              echo "First 100 lines:"
+              head -n 100 debug/m3u8/cookie_body.txt
+            else
+              echo "No response body."
+            fi
+          } | tee debug/m3u8/analysis.txt
+
+      # ==========================================
+      # SECURITY SANITIZATION
+      # ==========================================
+      - name: Remove credential from debug files
+        run: |
+          # Never commit the live cookie.
+          sed -i \
+            's/Edge-Cache-Cookie=[^;[:space:]]*/Edge-Cache-Cookie=[REDACTED]/g' \
+            debug/m3u8/*.txt 2>/dev/null || true
+
+          # Also remove the signature if it appears separately.
+          sed -i \
+            's/Signature=[^:[:space:]]*/Signature=[REDACTED]/g' \
+            debug/m3u8/*.txt 2>/dev/null || true
+
+          # Remove the hardcoded credential from any accidental debug output.
+          sed -i \
+            's#'"$EDGE_CACHE_COOKIE"'#[REDACTED]#g' \
+            debug/m3u8/*.txt 2>/dev/null || true
+
+      # ==========================================
+      # DEBUG SUMMARY
+      # ==========================================
+      - name: Create summary
+        run: |
+          {
+            echo "# M3U8 Black Box Test"
+            echo
+            echo "Target: \`$TARGET_URL\`"
+            echo
+            echo "## Without Cookie"
+            cat debug/m3u8/no_cookie_result.txt
+            echo
+            echo "## With Cookie"
+            cat debug/m3u8/cookie_result.txt
+            echo
+            echo "## DNS"
+            cat debug/m3u8/dns.txt
+          } > debug/m3u8/SUMMARY.md
+
+          cat debug/m3u8/SUMMARY.md
+
+      # ==========================================
+      # GIT COMMIT + PUSH
+      # ==========================================
+      - name: Commit debug output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add debug/m3u8/
+
+          if git diff --cached --quiet; then
+            echo "No debug changes to commit."
+            exit 0
           fi
+
+          git commit -m "chore: update M3U8 security debug"
+          git push
