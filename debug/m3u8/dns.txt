@@ -1,3 +1,9 @@
+===== TARGET =====
+https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
+
+===== HOST =====
+bldcmprod-cdn.toffeelive.com
+
 ===== GETENT =====
 
 ===== NSLOOKUP =====

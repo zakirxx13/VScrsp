@@ -2,5 +2,6 @@ curl: (6) Could not resolve host: bldcmprod-cdn.toffeelive.com
 HTTP_STATUS=000
 CONTENT_TYPE=
 SIZE=0
-TIME=0.007291
+TIME=0.015355
+REMOTE_IP=
 CURL_EXIT=6
