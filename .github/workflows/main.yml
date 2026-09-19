@@ -1,4 +1,4 @@
-name: Black Box Security Test
+name: M3U8 Black Box Test
 
 on:
   workflow_dispatch:
@@ -8,34 +8,38 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Test public endpoint
+      - name: Test M3U8 without authentication cookie
         env:
-          TARGET_URL: "https://toffeelive.com/en/watch/Xi_Ga5oBNnOkwJLWkhKP"
+          TARGET_URL: "https://bldcmprod-cdn.toffee.com/cdn/live/cnn/playlist.m3u8"
         run: |
           set -e
 
           echo "=============================="
-          echo " BLACK BOX BASELINE TEST"
+          echo " M3U8 BASELINE TEST"
           echo "=============================="
 
-          echo ""
-          echo "[1] HTTP RESPONSE"
           curl -sS \
             -D headers.txt \
-            -o body.txt \
-            -w "\nHTTP_STATUS=%{http_code}\nCONTENT_TYPE=%{content_type}\nFINAL_URL=%{url_effective}\n" \
+            -o playlist.txt \
+            -w "\nHTTP_STATUS=%{http_code}\nCONTENT_TYPE=%{content_type}\nSIZE=%{size_download}\n" \
             "$TARGET_URL"
 
           echo ""
-          echo "[2] RESPONSE HEADERS"
+          echo "=== RESPONSE HEADERS ==="
           cat headers.txt
 
           echo ""
-          echo "[3] RESPONSE BODY (first 2000 bytes)"
-          head -c 2000 body.txt
+          echo "=== PLAYLIST PREVIEW ==="
+          head -c 2000 playlist.txt
 
           echo ""
           echo ""
-          echo "=============================="
-          echo " TEST COMPLETE"
-          echo "=============================="
+          echo "=== RESULT ==="
+
+          STATUS=$(awk 'NR==1 {print $2}' headers.txt)
+
+          if [ "$STATUS" = "200" ]; then
+            echo "M3U8 accessible WITHOUT cookie."
+          else
+            echo "M3U8 rejected WITHOUT cookie."
+          fi
