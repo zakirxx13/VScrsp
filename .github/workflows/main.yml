@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Test public endpoint
         env:
-          TARGET_URL: "https://YOUR-PUBLIC-TEST-URL-HERE"
+          TARGET_URL: "https://toffeelive.com/en/watch/Xi_Ga5oBNnOkwJLWkhKP"
         run: |
           set -e
 
