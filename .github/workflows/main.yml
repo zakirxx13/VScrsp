@@ -1,36 +1,41 @@
-name: Toffee Scraper
+name: Black Box Security Test
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */6 * * *'
-
-permissions:
-  contents: write
 
 jobs:
-  scrape:
+  baseline:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      
-      - name: Install dependencies
+      - name: Test public endpoint
+        env:
+          TARGET_URL: "https://YOUR-PUBLIC-TEST-URL-HERE"
         run: |
-          pip install requests playwright
-          python -m playwright install chromium
-      
-      - name: Run scraper
-        run: python scrap.py
-      
-      - name: Commit results
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git commit -m "Update $(date '+%Y-%m-%d %H:%M')" || echo "No changes"
-          git push
+          set -e
+
+          echo "=============================="
+          echo " BLACK BOX BASELINE TEST"
+          echo "=============================="
+
+          echo ""
+          echo "[1] HTTP RESPONSE"
+          curl -sS \
+            -D headers.txt \
+            -o body.txt \
+            -w "\nHTTP_STATUS=%{http_code}\nCONTENT_TYPE=%{content_type}\nFINAL_URL=%{url_effective}\n" \
+            "$TARGET_URL"
+
+          echo ""
+          echo "[2] RESPONSE HEADERS"
+          cat headers.txt
+
+          echo ""
+          echo "[3] RESPONSE BODY (first 2000 bytes)"
+          head -c 2000 body.txt
+
+          echo ""
+          echo ""
+          echo "=============================="
+          echo " TEST COMPLETE"
+          echo "=============================="
