@@ -1,0 +1,13 @@
+===== GETENT =====
+
+===== NSLOOKUP =====
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+*** Can't find bldcmprod-cdn.toffeelive.com: No answer
+
+
+===== DIG A =====
+
+===== DIG AAAA =====

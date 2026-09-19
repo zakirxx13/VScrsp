@@ -1,0 +1,5 @@
+===== WITHOUT COOKIE =====
+No response body.
+
+===== WITH COOKIE =====
+No response body.
